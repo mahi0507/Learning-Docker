@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>  <h1> This is Demo project to learn Docker!</h1> src/App.js</code> and save to reload.
+          Edit <code>  <h1> This is Demo project to learn Docker! I am learning. </h1> src/App.js</code> and save to reload.
 
         
         </p>
